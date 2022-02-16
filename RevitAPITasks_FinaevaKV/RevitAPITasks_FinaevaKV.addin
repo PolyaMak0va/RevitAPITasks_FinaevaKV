@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITasks_FinaevaKV.dll"</Assembly>
+		<AddInId>6B6D7F1C-82C4-4A6A-8F00-A0CFBAA6A9B5</AddInId> 
+		<FullClassName>RevitAPITasks_FinaevaKV.Main</FullClassName>
+		<VendorId>ADSK</VendorId> 
+		<Text>Выбор воздуховодов</Text> 
+	</AddIn>
+</RevitAddIns>
